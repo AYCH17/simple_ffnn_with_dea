@@ -1,3 +1,6 @@
 /data
 /MNIST
 /MNIST.tar.gz
+.python_packages
+__pycache__
+.venv
